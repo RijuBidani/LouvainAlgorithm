@@ -1,6 +1,6 @@
 The Louvain Algorithm is a fast, scalable algorithm for detecting communities in graphs. The algorithm generally involves a graph aggregation step; this project finds the communities without creating new objects to store the aggregated graphs. This was created as a capstone project for the Coursera specialization "Object Oriented Java Programming: Data Structures and Beyond".
 
-This project was written in Java and developed using the Eclipse IDE.
+This project was written in Java and developed using the Eclipse IDE. Here, I apply the Louvain algorithm to detect communities in Facebook data representing friendships between users on a single day at the UC San Diego campus in 2005.
 
 BASIC GRAPH STRUCTURE:
 
